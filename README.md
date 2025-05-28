@@ -1,1 +1,1 @@
-classification study
+classification study case

@@ -1,1 +1,1 @@
-classification study case
+classification ai study case

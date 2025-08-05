@@ -1,1 +1,1 @@
-classification ai is a example study case
+classification is a ai study case

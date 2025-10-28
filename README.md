@@ -1,1 +1,1 @@
-classification is for done ai sample study case
+classification is a for do it ai sample study case

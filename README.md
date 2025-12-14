@@ -1,1 +1,1 @@
-classification is a for do it ai study case
+classification is a for do make than ai study case

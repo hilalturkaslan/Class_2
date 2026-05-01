@@ -5,4 +5,5 @@ If text message complicated text inside result again browse detail analysis sugg
 The more detail the model data contains, the clearer it becomes to understand the causes of customer churn.
 A model section can be developed for this project. 
 This project can also be considered a decision support system, because the system was created to classify the causes of customer churn. 
-Optional SaaS customer churn cause analysis can be improved as a CRM. More options could be added to the suggestion area. The variety of recommendations should be increased for the categories where customer loss is most prevalent. 
+Optional SaaS customer churn cause analysis can be improved as a CRM. 
+More options could be added to the suggestion area. The variety of recommendations should be increased for the categories where customer loss is most prevalent. 

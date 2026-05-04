@@ -2,7 +2,7 @@ Classification is a for done make than ai study case.
 Streamlit make done basic ai web application. 
 Web app inside customer text message analiysis and confidence score. 
 If text message complicated text inside result again browse detail analysis suggested. 
-The more detail the model data contains, the clearer it becomes to understand the causes of customer churn.
+The more detail the model data contains the clearer it becomes to understand the causes of customer churn.
 A model section can be developed for this project. 
 This project can also be considered a decision support system because the system was created to classify the causes of customer churn. 
 Optional SaaS customer churn cause analysis can be improved as a CRM. 

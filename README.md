@@ -8,3 +8,4 @@ This project can also be considered a decision support system because the system
 Optional SaaS customer churn cause analysis can be improved as a CRM. 
 More options could be added to the suggestion area. 
 The variety of recommendations should be increased for the categories where customer loss is most prevalent.
+
